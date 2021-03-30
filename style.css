@@ -181,3 +181,9 @@ img {
 	font-size: 1.8rem;
 	margin: 0;
 }
+
+@media (min-width: 768px) {
+	.copyright {
+		flex: 0 0 auto;
+	}
+}
